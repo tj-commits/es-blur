@@ -1,0 +1,29 @@
+{
+  "name": "es-blur",
+  "version": "1.0.0",
+  "description": "A drop-in shim/polyfill/replacement for `window.blur() that works as far down as ES3.",
+  "keywords": [
+    "blur",
+    "polyfill",
+    "shim"
+  ],
+  "homepage": "https://github.com/tj-commits/es-blur#readme",
+  "bugs": {
+    "url": "https://github.com/tj-commits/es-blur/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/es-blur.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "const": "^1.0.0",
+    "define-properties": "^1.2.1"
+  }
+}
