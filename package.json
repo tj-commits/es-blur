@@ -1,6 +1,6 @@
 {
   "name": "es-blur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A drop-in shim/polyfill/replacement for `window.blur() that works as far down as ES3.",
   "keywords": [
     "blur",

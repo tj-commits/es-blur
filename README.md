@@ -1,4 +1,4 @@
-# es-blur <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+# es-blur
 
 A drop-in shim/polyfill/replacement for `window.blur()` that works as far down as ES3.
 
